@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Radio Group",
+        "filename": "radio-group.md",
+        "description": "A set of checkable buttons—known as radio buttons—where no more than one of the buttons can be checked at a time."
+    },
+    {
+        "name": "Hover Card",
+        "filename": "hover-card.md",
+        "description": "For sighted users to preview content available behind a link."
+    },
+    {
+        "name": "Label",
+        "filename": "label.md",
+        "description": "Renders an accessible label associated with controls."
+    },
+    {
+        "name": "Input",
+        "filename": "input.md",
+        "description": "Displays a form input field or a component that looks like an input field."
+    },
+    {
+        "name": "Accordion",
+        "filename": "accordion.md",
+        "description": "A vertically stacked set of interactive headings that each reveal a section of content."
+    },
+    {
+        "name": "Navigation Menu",
+        "filename": "navigation-menu.md",
+        "description": "A collection of links for navigating websites."
+    },
+    {
+        "name": "Toast",
+        "filename": "toast.md",
+        "description": "An opinionated toast component for React.\nSonner is built and maintained by [emilkowalski\\_](https://twitter.com/emilkowalski_)."
+    },
+    {
+        "name": "Slider",
+        "filename": "slider.md",
+        "description": "An input where the user selects a value from within a given range."
+    },
+    {
+        "name": "Card",
+        "filename": "card.md",
+        "description": "Displays a card with header, content, and footer."
+    },
+    {
+        "name": "Aspect Ratio",
+        "filename": "aspect-ratio.md",
+        "description": "Displays content within a desired ratio."
+    },
+    {
+        "name": "Sheet",
+        "filename": "sheet.md",
+        "description": "Extends the Dialog component to display content that complements the main content of the screen."
+    },
+    {
+        "name": "Carousel",
+        "filename": "carousel.md",
+        "description": "A carousel with motion and swipe built using Embla.\nThe carousel component is built using the [Embla Carousel](https://www.embla-carousel.com/) library."
+    },
+    {
+        "name": "React Hook Form",
+        "filename": "form.md",
+        "description": "Building forms with React Hook Form and Zod.\n\nWell-designed HTML forms are:\n\n- Well-structured and semantically correct.\n- Easy to use and navigate (keyboard).\n- Accessible with ARIA attributes and proper labels.\n- Has support for client and server side validation.\n- Well-styled and consistent with the rest of the application.\n\nFeatures\n\nThe `<Form />` component is a wrapper around the `react-hook-form` library. It provides a few things:\n\n- Composable components for building forms.\n- A `<FormField />` component for building controlled form fields.\n- Form validation using `zod`.\n- Handles accessibility and error messages.\n- Uses `React.useId()` for generating unique IDs.\n- Applies the correct `aria` attributes to form fields based on states.\n- Built to work with all Radix UI components.\n- Bring your own schema library. We use `zod` but you can use anything you want.\n- **You have full control over the markup and styling.**"
+    },
+    {
+        "name": "Button",
+        "filename": "button.md",
+        "description": "Displays a button or a component that looks like a button."
+    },
+    {
+        "name": "Scroll-area",
+        "filename": "scroll-area.md",
+        "description": ""
+    },
+    {
+        "name": "Input OTP",
+        "filename": "input-otp.md",
+        "description": "Accessible one-time password component with copy paste functionality.\n\nInput OTP is built on top of [input-otp](https://github.com/guilhermerodz/input-otp) by [@guilherme_rodz](https://twitter.com/guilherme_rodz)."
+    },
+    {
+        "name": "Alert",
+        "filename": "alert.md",
+        "description": "Displays a callout for user attention."
+    },
+    {
+        "name": "Checkbox",
+        "filename": "checkbox.md",
+        "description": "A control that allows the user to toggle between checked and not checked."
+    },
+    {
+        "name": "Popover",
+        "filename": "popover.md",
+        "description": "Displays rich content in a portal, triggered by a button."
+    },
+    {
+        "name": "Pagination",
+        "filename": "pagination.md",
+        "description": "Pagination with page navigation, next and previous links."
+    },
+    {
+        "name": "Progress",
+        "filename": "progress.md",
+        "description": "Displays an indicator showing the completion progress of a task, typically displayed as a progress bar."
+    },
+    {
+        "name": "Select",
+        "filename": "select.md",
+        "description": "Displays a list of options for the user to pick from—triggered by a button."
+    },
+    {
+        "name": "Table",
+        "filename": "table.md",
+        "description": "A responsive table component."
+    },
+    {
+        "name": "Resizable",
+        "filename": "resizable.md",
+        "description": "Accessible resizable panel groups and layouts with keyboard support.\n\nThe `Resizable` component is built on top of [react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) by [bvaughn](https://github.com/bvaughn)."
+    },
+    {
+        "name": "Context Menu",
+        "filename": "context-menu.md",
+        "description": "Displays a menu to the user — such as a set of actions or functions — triggered by a button."
+    },
+    {
+        "name": "Command",
+        "filename": "command.md",
+        "description": "Fast, composable, unstyled command menu for React."
+    },
+    {
+        "name": "Drawer",
+        "filename": "drawer.md",
+        "description": "A drawer component for React."
+    },
+    {
+        "name": "Dialog",
+        "filename": "dialog.md",
+        "description": "A window overlaid on either the primary window or another dialog window, rendering the content underneath inert."
+    },
+    {
+        "name": "Tabs",
+        "filename": "tabs.md",
+        "description": "A set of layered sections of content—known as tab panels—that are displayed one at a time."
+    },
+    {
+        "name": "Menubar",
+        "filename": "menubar.md",
+        "description": "A visually persistent menu common in desktop applications that provides quick access to a consistent set of commands."
+    },
+    {
+        "name": "Toggle",
+        "filename": "toggle.md",
+        "description": "A two-state button that can be either on or off."
+    },
+    {
+        "name": "Separator",
+        "filename": "separator.md",
+        "description": "Visually or semantically separates content."
+    },
+    {
+        "name": "Textarea",
+        "filename": "textarea.md",
+        "description": "Displays a form textarea or a component that looks like a textarea."
+    },
+    {
+        "name": "Breadcrumb",
+        "filename": "breadcrumb.md",
+        "description": "Displays the path to the current resource using a hierarchy of links."
+    },
+    {
+        "name": "Combobox",
+        "filename": "combobox.md",
+        "description": "Autocomplete input and command palette with a list of suggestions.\n\nThe Combobox is built using a composition of the `<Popover />` and the `<Command />` components."
+    },
+    {
+        "name": "Typography",
+        "filename": "typography.md",
+        "description": "Styles for headings, paragraphs, lists...etc"
+    },
+    {
+        "name": "Chart",
+        "filename": "chart.md",
+        "description": "Beautiful charts. Built using Recharts. Copy and paste into your apps.\n\nIntroducing **Charts**. A collection of chart components that you can copy and paste into your apps.\n\nCharts are designed to look great out of the box. They work well with the other components and are fully customizable to fit your project."
+    },
+    {
+        "name": "Date Picker",
+        "filename": "date-picker.md",
+        "description": "A date picker component with range and presets."
+    },
+    {
+        "name": "Switch",
+        "filename": "switch.md",
+        "description": "A control that allows the user to toggle between checked and not checked."
+    },
+    {
+        "name": "Avatar",
+        "filename": "avatar.md",
+        "description": "An image element with a fallback for representing the user."
+    },
+    {
+        "name": "Toggle Group",
+        "filename": "toggle-group.md",
+        "description": "A set of two-state buttons that can be toggled on or off."
+    },
+    {
+        "name": "Tooltip",
+        "filename": "tooltip.md",
+        "description": "A popup that displays information related to an element when the element receives keyboard focus or the mouse hovers over it."
+    },
+    {
+        "name": "Dropdown Menu",
+        "filename": "dropdown-menu.md",
+        "description": "Displays a menu to the user — such as a set of actions or functions — triggered by a button."
+    },
+    {
+        "name": "Badge",
+        "filename": "badge.md",
+        "description": "Displays a badge or a component that looks like a badge."
+    },
+    {
+        "name": "Collapsible",
+        "filename": "collapsible.md",
+        "description": "An interactive component which expands/collapses a panel."
+    },
+    {
+        "name": "Alert Dialog",
+        "filename": "alert-dialog.md",
+        "description": "A modal dialog that interrupts the user with important content and expects a response."
+    },
+    {
+        "name": "Skeleton",
+        "filename": "skeleton.md",
+        "description": "Use to show a placeholder while content is loading."
+    },
+    {
+        "name": "Data Table",
+        "filename": "data-table.md",
+        "description": "Powerful table and datagrids built using TanStack Table."
+    }
+]
